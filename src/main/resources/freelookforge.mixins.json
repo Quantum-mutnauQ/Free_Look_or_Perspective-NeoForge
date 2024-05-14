@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "quatum.freelookforge.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "freelookforge.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "CameraMixin",
+    "MouseHandlerMixin",
+    "GuiMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
