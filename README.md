@@ -6,4 +6,4 @@ You can move your camera but not the head.
 
 The mod elso provide a function to chnage your perspecive when the free look get triggert. This can be anable in the config file.
 
-able on [Curseforge](https://www.curseforge.com/minecraft/mc-mods/free-look-perspective-mod-forge)
+able on [Curseforge](https://www.curseforge.com/minecraft/mc-mods/free-look-perspective-mod)
