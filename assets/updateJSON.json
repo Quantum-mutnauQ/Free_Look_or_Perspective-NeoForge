@@ -28,6 +28,8 @@
         "1.21.7-latest": "11",
         "1.21.7-recommended": "11",
         "1.21.8-latest": "11",
-        "1.21.8-recommended": "11"
+        "1.21.8-recommended": "11",
+        "1.21.9-latest": "11",
+        "1.21.9-recommended": "11"
     }
 }
