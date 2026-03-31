@@ -34,6 +34,8 @@
         "1.21.10-latest": "11",
         "1.21.10-recommended": "11",
         "1.21.11-latest": "11",
-        "1.21.11-recommended": "11"
+        "1.21.11-recommended": "11",
+        "26.1-latest": "11",
+        "26.1-recommended": "11"
     }
 }
